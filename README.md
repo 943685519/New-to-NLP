@@ -1,2 +1,2 @@
 # New-to-NLP
-Some exercise for Natural Language Processing beginners.
+Some codes for Natural Language Processing beginners.
